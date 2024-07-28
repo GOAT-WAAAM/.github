@@ -138,7 +138,7 @@
 | 김서진<br/>([@seojin235](https://github.com/seojin235)) | 민재연<br/>([@jymin99](https://github.com/jymin99)) | 
 | :---: | :---: |
 | <img width="130" src="https://avatars.githubusercontent.com/u/141928266?v=4"/> | <img width="130" src="https://avatars.githubusercontent.com/u/73513813?v=4"/> |
-| `역할`  | `역할` | 
+| `카카오 소셜 로그인, 큐레이션, 폴더, 마이페이지 관련 기능 개발`  | `역할` | 
 
 ### 백엔드
 | 우지원<br/>([@jiwonniy](https://github.com/jiwonniy)) | 이동영<br/>([@leedy3838](https://github.com/leedy3838)) | 정재연<br/>([@encoreJeong](https://github.com/encoreJeong)) |
