@@ -122,3 +122,26 @@
 최근 일주일동안 몇번 복습했는지도 볼 수 있어요!
 
 그럼, 와암과 함께 언제 어디서나 복습을 받아먹어보세요 😊
+
+## 🧬 Infra Structure
+![goat-infra](https://github.com/user-attachments/assets/8b4d4070-8dbb-4624-9a01-4d7ca0d50faf)
+
+## 🧚‍♀️ Member 
+
+### 기획 & 디자인
+| 이예린<br/>([@ever-lee](https://github.com/ever-lee)) | 최예은<br/>([@yeeeenni](https://github.com/yeeeenni)) | 
+| :---: | :---: |
+| <img width="130" src="https://avatars.githubusercontent.com/u/161040934?v=4"/> | <img width="130" src="https://avatars.githubusercontent.com/u/164330796?v=4"/> |
+| `기획`  | `디자인` | 
+
+### 프론트엔드
+| 김서진<br/>([@seojin235](https://github.com/seojin235)) | 민재연<br/>([@jymin99](https://github.com/jymin99)) | 
+| :---: | :---: |
+| <img width="130" src="https://avatars.githubusercontent.com/u/141928266?v=4"/> | <img width="130" src="https://avatars.githubusercontent.com/u/73513813?v=4"/> |
+| `역할`  | `역할` | 
+
+### 백엔드
+| 우지원<br/>([@jiwonniy](https://github.com/jiwonniy)) | 이동영<br/>([@leedy3838](https://github.com/leedy3838)) | 정재연<br/>([@encoreJeong](https://github.com/encoreJeong)) |
+| :---: | :---: | :---: | 
+| <img width="130" src="https://avatars.githubusercontent.com/u/145983280?v=4"/> | <img width="130" src="https://avatars.githubusercontent.com/u/43364585?v=4"/> | <img width="130" src="https://avatars.githubusercontent.com/u/58183216?v=4"/> |
+| `마이페이지, 복습 관련 기능 개발`  | `인프라, 폴더 관련 기능 개발` | `로그인, 알림 관련 기능 개발` |
